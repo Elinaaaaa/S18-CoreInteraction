@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+
+</body>
+</html>
+<script>
+for(var i =0; i < 500; i++){
+    var square = document.createElement("div");
+    square.style.height = "100px";
+    square.style.width = "100px";
+    square.style.margin = "3px"; 
+    square.style.float = "left";
+
+    var color = "rgb("+parseInt(Math.random() * 255) +" , "+parseInt(Math.random() * 255)+" , "+parseInt(Math.random() * 255)+" )";
+    console.log(color);
+    square.style.backgroundColor = color;
+
+    document.body.appendChild(square);
+}
+</script>
