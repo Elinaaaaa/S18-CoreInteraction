@@ -1,0 +1,31 @@
+{
+	"name":["Jiayi", "Liu", "Elina"],
+	"home":[
+		{
+			"latitude":"32.0919721",
+			"longitude":"118.8081856"
+		}
+	],
+	"url":"https://github.com/Elinaaaaa",
+	"favorites"[
+		{
+			"color":"#DBB7BB"
+		},
+		{
+			"book":[
+				{
+					"title":"Everythin I Never Told You"
+				},
+				{
+					"author":"Celeste NG"
+				}
+			]
+		},
+		{
+			"tool":"camera"
+		},
+		{
+			"temperature":"7"
+		}
+	]
+}
